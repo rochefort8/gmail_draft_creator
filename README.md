@@ -2,7 +2,7 @@
 
 From csv formatted personal information, using Gmail API and PHP.
 
-# How to run
+# Usage
 
 ### Prepare a Google account with Gmail enabled.
 
